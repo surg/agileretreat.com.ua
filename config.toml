@@ -38,7 +38,7 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robots
   # Header section
   [params.header]
     enable = true
-    title = "Agile Retreat<br>It's coming."
+    title = "Agile Retreat.<br>It's coming."
 
   # Quote section
   [params.quote]
