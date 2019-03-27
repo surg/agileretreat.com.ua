@@ -1,3 +1,6 @@
 [submodule "themes/hugo-smpl-theme"]
 	path = themes/hugo-smpl-theme
 	url = https://github.com/christianmendoza/hugo-smpl-theme
+[submodule "themes/hugoscroll"]
+	path = themes/hugoscroll
+	url = git@github.com:fredrikloch/hugoscroll.git

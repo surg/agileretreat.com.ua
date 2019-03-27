@@ -1,0 +1,23 @@
+.blog-title, .blog-description {
+    color: #54a4f9;
+}
+
+.post-holder {
+    background: white;
+}
+
+.oneOff, a.btn {
+    background-color: #0655bc;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+a.fn-item.active {
+    color: #fed809;
+}

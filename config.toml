@@ -1,8 +1,8 @@
 # Site settings
 baseurl = "/"
 languageCode = "en-us"
-title = "Agile Retreat | Community Edition"
-theme = "hugo-smpl-theme"
+title = "Agile Retreat"
+theme = "hugoscroll"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
 
 # Enter your tracking code to enable Google analytics
@@ -19,36 +19,15 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robots
   name = "Agile Retreat"
   description = "Honeybadgers for the win!"
 
+
   # Background
   [params.background]
     image = "images/honeybadger.jpg"
 
-    # Enable and set background fade speed
-    [params.background.fade]
-      enable = true
-      speed = 500
 
-  # Logo section
-  [params.logo]
-    enable = false
-    image = "assets/img/logo.png"
-    alt = "BlackTie.co"
-    width = "100"
-
-  # Header section
-  [params.header]
-    enable = true
-    title = "Agile Retreat.<br>It's coming."
-
-  # Quote section
-  [params.quote]
-    enable = false
-    text = "Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy."
-
-  # Social icons section
-  # Add a modifier class to increase size
-  # fa-lg, fa-2x, fa-3x, fa-4x, fa-5x
-  # e.g., icon = "fa-instagram fa-lg"
-  [params.social_icons]
-    enable = false
-
+[Params]
+  logo = "images/logo.png"
+  email = "medoed@agileretreat.com.ua"
+  description = "Community Edition"
+  cover = "/images/honeybadger.jpg"
+#  logo = "/img/logo-1.jpg"
