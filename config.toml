@@ -19,4 +19,5 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robots
   description = "Community Edition"
   dates = "9 - 11 августа 2019"
   cover = "/images/honeybadger.jpg"
+  BaseURL = "."
 #  logo = "/img/logo-1.jpg"
