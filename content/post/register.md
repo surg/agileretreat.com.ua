@@ -11,3 +11,5 @@ class="post"
 &nbsp;
 # Вопросы? 
 Пиши на [medoed@agileretreat.com.ua](mailto:medoed@agileretreat.com.ua)
+
+<h1 style="text-align: center; font-size: 5rem">МЕДОЕД ЖДЕТ ТЕБЯ!!!</h1>
