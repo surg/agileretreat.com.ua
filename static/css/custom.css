@@ -1,5 +1,15 @@
-.blog-title, .blog-description {
+.blog-title, .blog-description, .blog-dates {
     color: #54a4f9;
+}
+
+.blog-title {
+    font-size: 4rem;
+}
+
+.blog-dates {
+    font-size: 3rem;
+    color: white;
+    background-color: #54a4f9;
 }
 
 .post-holder {

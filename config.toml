@@ -1,24 +1,12 @@
 # Site settings
 baseurl = "/"
 languageCode = "en-us"
-title = "Agile Retreat"
+title = "Agile Coaching Retreat"
 theme = "hugoscroll"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
 
 # Enter your tracking code to enable Google analytics
 # googleAnalytics = ""
-
-[params]
-  # You can use Markdown for urls [text](//domain.tld/source)
-  #
-  # All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
-  # for more icons.
-
-  # To provide more meta data for search engines feel free to add a few information.
-  # This lines will be inserted as meta tags.
-  name = "Agile Retreat"
-  description = "Honeybadgers for the win!"
-
 
   # Background
   [params.background]
@@ -29,5 +17,6 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robots
   logo = "images/logo.png"
   email = "medoed@agileretreat.com.ua"
   description = "Community Edition"
+  dates = "9 - 11 августа 2019"
   cover = "/images/honeybadger.jpg"
 #  logo = "/img/logo-1.jpg"
