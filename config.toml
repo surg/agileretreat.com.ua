@@ -4,6 +4,7 @@ languageCode = "en-us"
 title = "Agile Coaching Retreat"
 theme = "hugoscroll"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
+BaseURL = "."
 
 # Enter your tracking code to enable Google analytics
 # googleAnalytics = ""
@@ -12,12 +13,11 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robots
   [params.background]
     image = "images/honeybadger.jpg"
 
-
 [Params]
   logo = "images/logo.png"
   email = "medoed@agileretreat.com.ua"
   description = "Community Edition"
   dates = "9 - 11 августа 2019"
   cover = "/images/honeybadger.jpg"
-  BaseURL = "."
+
 #  logo = "/img/logo-1.jpg"
