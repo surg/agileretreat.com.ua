@@ -9,15 +9,11 @@ BaseURL = "."
 # Enter your tracking code to enable Google analytics
 # googleAnalytics = ""
 
-  # Background
-  [params.background]
-    image = "images/honeybadger.jpg"
-
 [Params]
   logo = "images/logo.png"
   email = "medoed@agileretreat.com.ua"
   description = "Community Edition"
   dates = "9 - 11 августа 2019"
-  cover = "/images/honeybadger.jpg"
+  cover = "/images/honeybadger-gs.jpg"
 
 #  logo = "/img/logo-1.jpg"
